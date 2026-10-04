@@ -51,7 +51,7 @@ export const CONSULTANT_INFO = {
     {
       metric: '#1 Position',
       label: 'Market Share Turnaround',
-      context: 'Catapulted Crompton fan division in Punjab from 5th to 1st place with 29% market share in 12 months',
+      context: 'Catapulted Crompton fan division in Punjab from 5th to 1st place with 30% market share in 12 months',
     },
     {
       metric: '36+ Officers',
@@ -165,7 +165,7 @@ export const CASE_STUDIES: CaseStudy[] = [
     category: 'Turnaround Strategy',
     organization: 'Crompton Greaves Consumer Electricals Ltd',
     role: 'Senior Manager Sales – Fan Division (Greater Punjab)',
-    metricHighlight: '29% Market Share',
+    metricHighlight: '30% Market Share',
     metricLabel: 'From 5th to 1st Place in 1 Year',
     challenge:
       'Brand was ranked 5th in Greater Punjab with fragmented dealer visibility, low brand extraction, and aggressive regional competitor pricing.',
@@ -173,7 +173,7 @@ export const CASE_STUDIES: CaseStudy[] = [
       'Implemented a rigorous Go-To-Market model centered on Reach Expansion and Reach Extraction. Established 6 flagship Galaxy experience displays, secured counter visibility in 100+ top retail counters, and organized 50 targeted positioning meetings with architects, builders, and government buyers.',
     outcomes: [
       'Vaulted from #5 ranking to absolute #1 market leader in Punjab within a single financial year.',
-      'Captured and retained an industry-leading 29% market share throughout tenure.',
+      'Captured and retained an industry-leading 30% market share throughout tenure.',
       'Augmented retail shelf and POP reach to 62% through strategic POP visibility campaigns.',
     ],
     keyClientsOrApprovals: ['100+ Retail Display Counters', '6 Galaxy Centers', '50 Architect & Specifier Forums'],
@@ -335,7 +335,7 @@ export const VERCEL_MASTER_PROMPT = `You are a world-class Full-Stack Web Archit
 
 Target Persona & Pedigree:
 - Executive: Ramesh Madaan (IIM Lucknow MBA, Punjab Technical University B.Tech Industrial Engineering + MBA, Diploma in Electrical Engineering).
-- 28+ years of enterprise operating leadership across Crompton Greaves (executed ₹200 Cr PAN India industrial lighting business, turned around fan division from #5 to #1 with 29% market share), Havells India Ltd (15 years branch leadership with 48% CAGR over 10 years, managing 36-person team), and Fine Switchgears (VP Sales & Marketing).
+- 28+ years of enterprise operating leadership across Crompton Greaves (executed ₹200 Cr PAN India industrial lighting business, turned around fan division from #5 to #1 with 30% market share), Havells India Ltd (15 years branch leadership with 48% CAGR over 10 years, managing 36-person team), and Fine Switchgears (VP Sales & Marketing).
 - Core Advisory Focus: Sales Organization Transformation, PAN-India Distribution & Channel Scaling, Institutional & Specifier Approvals (EIL, NTPC, ONGC, Power Grid, CPWD), GTM Category Expansion, and CXO Leadership Coaching.
 
 Key Website Architecture & Interactive Elements:
